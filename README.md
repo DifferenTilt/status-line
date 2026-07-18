@@ -14,7 +14,7 @@ Bar color: green (<30% real), yellow (30–60%), orange (60–85%), red (>85%).
 ## Install
 
 ```
-/plugin marketplace add <your-org>/context-bar-statusline
+/plugin marketplace add DifferenTilt/status-line
 /plugin install context-bar-statusline@context-bar-statusline-marketplace
 /install-statusline
 ```
