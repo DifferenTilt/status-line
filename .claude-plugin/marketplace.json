@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "context-bar-statusline-marketplace",
+  "description": "Marketplace hosting the context-bar-statusline plugin for Claude Code",
+  "owner": {
+    "name": "Andre"
+  },
+  "plugins": [
+    {
+      "name": "context-bar-statusline",
+      "description": "Nonlinear context-usage bar for the Claude Code status line — highlights context bloat early.",
+      "source": ".",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "context-bar-statusline",
+  "displayName": "Context Bar Statusline",
+  "version": "1.0.0",
+  "description": "Nonlinear context-usage bar for the Claude Code status line — visually exaggerates real context usage (30% real ≈ 58% displayed) so you notice bloat early and keep the context window clean.",
+  "author": {
+    "name": "Andre"
+  },
+  "license": "MIT",
+  "keywords": ["statusline", "context-window", "productivity"]
+}
